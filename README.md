@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.svg" alt="Lifeboat logo" width="112"></p>
+
 # lifeboat-github
 
 Go GitHub App adapter that turns verified repository activity into reviewable evidence candidates.
