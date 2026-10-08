@@ -21,3 +21,7 @@ Set `LIFEBOAT_GITHUB_WEBHOOK_SECRET` to the GitHub App webhook secret, `LIFEBOAT
 The adapter verifies the GitHub HMAC-SHA256 signature, installation ID, repository, and evidence URL. It accepts merged pull requests, published releases, and closed issues. The API enforces unique delivery IDs, so retries do not create duplicate evidence. Events only create reviewable evidence; they never approve a claim or trigger a payment. Go 1.26 and access to the tagged private `lifeboat-protocol` module are required to build from source.
 
 Product PRD and architecture live in the parent `lifeboat/docs` folder in the local workspace.
+
+## Contributing and security
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for pull requests, [SECURITY.md](SECURITY.md) for private vulnerability reports, and [LICENSE](LICENSE) for MIT terms.
