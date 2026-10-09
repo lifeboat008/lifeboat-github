@@ -24,6 +24,10 @@ The adapter verifies the GitHub HMAC-SHA256 signature, installation ID, reposito
 
 The [product requirements](https://github.com/lifeboat008/lifeboat-api/blob/main/product/docs/PRD.md), [architecture](https://github.com/lifeboat008/lifeboat-api/blob/main/product/docs/ARCHITECTURE.md), and [Wave plan](https://github.com/lifeboat008/lifeboat-api/blob/main/product/docs/WAVE.md) are versioned in `lifeboat-api`.
 
+## Documentation
+
+Full documentation, including the API reference, role guides, security notes, and operations runbooks, is at [cjay-1.gitbook.io/lifeboat-docs](https://cjay-1.gitbook.io/lifeboat-docs/).
+
 ## Contributing and security
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for pull requests, [SECURITY.md](SECURITY.md) for private vulnerability reports, and [LICENSE](LICENSE) for MIT terms.
